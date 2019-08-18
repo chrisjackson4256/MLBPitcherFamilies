@@ -14,3 +14,5 @@ Before performing the clustering, we split the dataset into two datasets based o
 
 To group the pitchers, we perform K-Means clustering and use the "Gap statistic" to find the optimal number of clusters.  For example, for left-handers, we find the optimal number of clusters is eight.   The clustering is shown below (projected down to two dimensions for visualization purposes only):
 
+![alt text](https://github.com/chrisjackson4256/MLBPitcherFamilies/blob/master/lh_pitcher_cluster.png "lh pitcher clusters")
+

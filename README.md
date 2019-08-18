@@ -20,5 +20,16 @@ To group the pitchers, we perform K-Means clustering and use the "Gap statistic"
 
 To get a feel for the characteristics associated with each cluster, we use "box and whisker" plots to look at the distribution of several features.  Below are some examples.  The middle dashed line represents the population mean and the upper and lower dashed lines represent the standard deviation of the population distribution for the feature in question.
 
+![alt text](https://github.com/chrisjackson4256/MLBPitcherFamilies/blob/master/fb_release_speed.png "fb release speed")
+
+![alt text](https://github.com/chrisjackson4256/MLBPitcherFamilies/blob/master/br_vertical_movement.png "breaking pitch vertical movement")
+
+![alt text](https://github.com/chrisjackson4256/MLBPitcherFamilies/blob/master/strike_pct.png "strike percentage")
+
+![alt text](https://github.com/chrisjackson4256/MLBPitcherFamilies/blob/master/gb_pct.png "groundball percentage")
+
+![alt text](https://github.com/chrisjackson4256/MLBPitcherFamilies/blob/master/outside_k_zone_contact.png "contact outside of the strike zone")
+
+![alt text](https://github.com/chrisjackson4256/MLBPitcherFamilies/blob/master/swinging_strike_pct.png "percentage of strikes on swings")
 
 

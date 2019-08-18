@@ -16,3 +16,9 @@ To group the pitchers, we perform K-Means clustering and use the "Gap statistic"
 
 ![alt text](https://github.com/chrisjackson4256/MLBPitcherFamilies/blob/master/lh_pitcher_cluster.png "lh pitcher clusters")
 
+### Characteristics of the Clusters
+
+To get a feel for the characteristics associated with each cluster, we use "box and whisker" plots to look at the distribution of several features.  Below are some examples.  The middle dashed line represents the population mean and the upper and lower dashed lines represent the standard deviation of the population distribution for the feature in question.
+
+
+
